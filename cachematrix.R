@@ -1,4 +1,3 @@
-
 ## The function caches matrix and inverse matrix in its environment
 
 makeCacheMatrix <- function(x = matrix()) {
